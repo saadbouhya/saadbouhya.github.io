@@ -3,8 +3,14 @@
 ## Education
 - M.S., Computer Science	| Centrale Lille	 			        		
 
+## Personal Projects
+### Nba players investments classifier
+[Repo](https://github.com/saadbouhya/nba-inves-classifier)
+
+This project aims to predict whether NBA players will have a career lasting more than 5 years, serving as a tool for investors interested in player longevity. The classification model uses player statistics to make predictions.
 ## Work Experience
 **Data Scientist Apprentice @ Leroy Merlin France (_September 2021 - Present_)**
+- Designed and developed an evaluation module for GenAI applications (ongoing).
 - Helped Product Managers to create craftsmen personas by delivering a clustering model based on craftsmen data.
 - Assisted product managers in identifying problems with the time to market of worksites by analyzing worksite data.
 - Designed and implemented data pipelines for processing and exposing structured data using kestra (data orchestration tool), Terraform(infrastructure provisioning tool) and SQL.
@@ -24,12 +30,6 @@
 
 **Software Engineer Intern @ Fichorga (_May 2021 - July2021_)**
 - Reduced training costs for newly released features on a web app by developing a tour guide using JavaScript.
-
-## Personal Projects
-### Nba players investments classifier
-[Repo](https://github.com/saadbouhya/nba-inves-classifier)
-
-This project aims to predict whether NBA players will have a career lasting more than 5 years, serving as a tool for investors interested in player longevity. The classification model uses player statistics to make predictions.
 
 ## Technical Skills:
 
