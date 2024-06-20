@@ -6,8 +6,8 @@
 ## Personal Projects
 ### Nba players investments classifier
 [Repo](https://github.com/saadbouhya/nba-inves-classifier)
-
 This project aims to predict whether NBA players will have a career lasting more than 5 years, serving as a tool for investors interested in player longevity. The classification model uses player statistics to make predictions.
+
 ## Work Experience
 **Data Scientist Apprentice @ Leroy Merlin France (_September 2021 - Present_)**
 - Designed and developed an evaluation module for GenAI applications (ongoing).
